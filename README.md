@@ -1,2 +1,2 @@
-Admin tool for Apache Kafka written in bash.
+Admin tool for Apache Kafka written completely in Bash.
 More description coming...
